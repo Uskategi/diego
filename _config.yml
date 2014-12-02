@@ -1,12 +1,12 @@
 # Site settings
-title: El blog de Diego 
+title: El blog de Diego
 email: dauscateguir@unal.edu.co
 description: > # this means to ignore newlines until "baseurl:"
               Este es el blog académico de Diego Alejandro Uscategui Russi 
 baseurl: "/diego/" # the subpath of your site, e.g. /blog/
 url: "https://github.com/Uskategi/uskategi.github.io/diego/" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  http://uskategi.github.io
+
+github_username: uskategi
 
 # Build settings
 markdown: kramdown
